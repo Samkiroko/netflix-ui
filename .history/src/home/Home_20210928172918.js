@@ -1,3 +1,4 @@
+import { Eco } from '@material-ui/icons'
 import React from 'react'
 import Navbar from '../components/navbar/Navbar'
 import './home.scss'
