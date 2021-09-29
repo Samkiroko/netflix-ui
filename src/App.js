@@ -1,10 +1,12 @@
 import './App.scss'
-import Home from './home/Home'
+import Home from './components/pages/home/Home'
+import Watch from './components/pages/watch/Watch'
 
 function App() {
   return (
     <div className='App'>
-      <Home />
+      {/* <Home /> */}
+      <Watch />
     </div>
   )
 }
